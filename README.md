@@ -2,29 +2,32 @@
 <h2>Web site de advocacia</h2>
 <br />
 <p>Apicação real de um web site  de uma advogada Larissa Botelho</p>
+
 [Click aqui para acessar o site](https://caiovilarouca.github.io/WebSite_LarissaBotelho/)
+
 <!--Tabela explicativa-->
 <table>
   <tr>
     <td>
-      <div align="center"><h1>Tela de login</h1></div>
-    </td>
-    <td>
-      <div align="center"><h1>Criando agenda do dia</h1></div>
+      <div align="center"><h1>Web site</h1></div>
     </td>
   </tr>
   <tr>
     <td>
-        <!--Tela de login-->
-        <div align="center">
-          <img alt="Tela-Login" height="100%" style="margin: 10px" src="https://github.com/CaioVilarouca/Sistema_Barbearia_Soflware/blob/main/img/Tela_login.svg"/> 
-        </div>
+       <!--Incio-->
+       <img alt="Incio" height="100%" style="margin: 10px" src="https://github.com/CaioVilarouca/WebSite_LarissaBotelho/blob/main/Img/Larissa-in195173cio.svg"/> 
     </td>
+  </tr>
+  <tr>
     <td>
-        <!--Agenda-->
-        <div align="center">
-          <img alt="Agenda" height="100%" style="margin: 10px" src="https://github.com/CaioVilarouca/Sistema_Barbearia_Soflware/blob/main/img/Agenda.svg"/> 
-        </div>
+       <!--Expericence -->
+       <img alt="Expericence" height="100%" style="margin: 10px" src="https://github.com/CaioVilarouca/WebSite_LarissaBotelho/blob/main/Img/Expericence.svg"/> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <!--Tela de login-->
+       <img alt="login" height="100%" style="margin: 10px" src="https://github.com/CaioVilarouca/WebSite_LarissaBotelho/blob/main/Img/Tela-login.svg"/> 
     </td>
   </tr>
 </table>
