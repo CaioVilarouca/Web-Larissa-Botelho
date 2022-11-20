@@ -3,7 +3,7 @@
 <br />
 <p>Apicação real de um web site  de uma advogada Larissa Botelho</p>
 
-[Click aqui para acessar o site](https://caiovilarouca.github.io/Web_Larissa_Botelho/)
+[Click aqui para acessar o site](https://caiovilarouca.github.io/Web-Larissa-Botelho/)
 
 <!--Tabela explicativa-->
 <table>
